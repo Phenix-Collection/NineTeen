@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "44249130677",
+    "firebase_url": "https://uunb-32713.firebaseio.com",
+    "project_id": "uunb-32713",
+    "storage_bucket": "uunb-32713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44249130677:android:03be8f18cd7d7815",
+        "android_client_info": {
+          "package_name": "nineteen.free.vpn.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44249130677-kf6fogngj1sfqaomh9abi8pr0rpgeeos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECwRVp2wb2-vmjYSBnP1Uujaa5tI1X-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44249130677-kf6fogngj1sfqaomh9abi8pr0rpgeeos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44249130677:android:64e719eff8c4a943",
+        "android_client_info": {
+          "package_name": "nineteen.openvpn.client.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44249130677-kf6fogngj1sfqaomh9abi8pr0rpgeeos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECwRVp2wb2-vmjYSBnP1Uujaa5tI1X-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44249130677-kf6fogngj1sfqaomh9abi8pr0rpgeeos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44249130677:android:654ee43d19be1a142f80fc",
+        "android_client_info": {
+          "package_name": "uk.kk.Gvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44249130677-kf6fogngj1sfqaomh9abi8pr0rpgeeos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECwRVp2wb2-vmjYSBnP1Uujaa5tI1X-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44249130677-kf6fogngj1sfqaomh9abi8pr0rpgeeos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
