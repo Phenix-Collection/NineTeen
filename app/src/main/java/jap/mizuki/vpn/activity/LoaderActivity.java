@@ -51,12 +51,12 @@ public class LoaderActivity extends BaseActivity {
     private final int PARSE_PROGRESS = 2;
     private final int LOADING_SUCCESS = 3;
     private final int SWITCH_TO_RESULT = 4;
-    private final String BASE_URL = "http://wordpressapi.mohdevtools.xyz/rest.php";
+    private final String BASE_URL = "http://webworks-lab.online/vpngate.php";
     private final String BASE_FILE_NAME = "vpngate.csv";
 
     private boolean premiumStage = true;
 
-    private final String PREMIUM_URL = "http://wordpressapi.mohdevtools.xyz/rest.php";
+    private final String PREMIUM_URL = "http://webworks-lab.online/vpngate.php";
     private final String PREMIUM_FILE_NAME = "vpngate.csv";
 
     private int percentDownload = 0;

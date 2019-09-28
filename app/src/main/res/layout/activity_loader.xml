@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:background="#555555"
+    android:background="@color/bg_screen1"
     tools:context="jap.mizuki.vpn.activity.LoaderActivity">
 
     <LinearLayout
@@ -49,8 +49,8 @@
             android:layout_gravity="center"
             android:layout_marginTop="80dp"
             android:layout_marginBottom="@dimen/activity_vertical_margin"
-            android:text="Please Wait While We"
-            android:textColor="@color/mapNameCountry"
+            android:text="Please Wait!"
+            android:textColor="#000000"
             android:textSize="25dp"
             android:textStyle="bold" />
 
@@ -62,7 +62,7 @@
             android:layout_marginBottom="@dimen/activity_vertical_margin"
             android:text="@string/loading_text"
 
-            android:textColor="@color/mapNameCountry"
+            android:textColor="#000000"
             android:textSize="15dp"
             android:textStyle="bold" />
 
@@ -73,7 +73,7 @@
             android:layout_gravity="center_horizontal|center_vertical"
             android:text="@string/quotes_here"
             android:textAlignment="center"
-            android:textColor="@color/mapNameCountry"
+            android:textColor="#000000"
             android:textSize="16sp"
             android:visibility="gone" />
 
